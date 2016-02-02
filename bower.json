@@ -1,0 +1,29 @@
+{
+  "name": "personal-portfolio",
+  "homepage": "https://github.com/martafonda/personal-portfolio",
+  "authors": [
+    "Marta Fonda <martafondapascual@gmail.com>"
+  ],
+  "description": "Personal portfolio using Polymer",
+  "main": "index.html",
+  "moduleType": [
+    "es6",
+    "node"
+  ],
+  "keywords": [
+    "Polymer",
+    "Portfolio"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.2.0"
+  }
+}
