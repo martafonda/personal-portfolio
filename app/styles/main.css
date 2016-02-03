@@ -7,9 +7,36 @@ body {
   width: 90%;
   margin: 0 auto;
 }
+.overflow-hidden{
+  overflow: hidden;
+}
+.text.right{
+  text-align: right;
+}
+.text.left{
+  text-align: left;
+}
 .on-left{
   float: left;
 }
 .on-right{
   float: right;
+}
+
+.subcontainer{
+  width: 80%;
+}
+
+
+
+.main-info>article>div{
+  width: 50%;
+}
+
+.portfolio{
+  height: 800px;
+  background-color:#0097A7;
+}
+.social{
+  height: 800px;
 }
