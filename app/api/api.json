@@ -1,34 +1,44 @@
 [
   {
-    "title": "Make your trip",
-    "subtitle": "Ironhack Final Project",
-    "url": "https://github.com/martafonda/makeyourtrip",
-    "description": "",
-    "image": "",
-    "technologies": "Ruby, Ruby on Rails, Javascript, JQuery, HTML5, CSS3, Bootstrap"
-  },
-  {
-    "title": "martafonda.com",
-    "subtitle": "Personal portfolio with Polymer",
-    "url": "https://github.com/martafonda/personal-portfolio",
-    "description": "",
-    "image": "",
-    "technologies": "Polymer, HTML5, CSS3, Javascript, Gulp"
-  },
-  {
-    "title": "Comming Soon",
-    "subtitle": "",
-    "url": "",
-    "description": "",
-    "image": "",
-    "technologies": ""
-  },
-  {
-    "title": "Comming Soon",
-    "subtitle": "",
-    "url": "",
-    "description": "",
-    "image": "",
-    "technologies": ""
-  },
+    "name": "Marta Fonda",
+    "description": "I'm a frontend developer focusing on user interface, web and graphic design and I'm passionate about new technologies and startups. When I'm not coding or pushing pixels, you'll find me reading. Alumni @Ironhack. Former Product Manager and Frontend Developer at @Floqq. Co-Founder at @MindlyUS",
+    "skills": "HTML5, CSS3, Javascript, CoffeScript, Ruby, Ruby on Rails, SASS, React and Polymer developer.",
+    "portfolio":
+    [
+      {
+        "title": "Make your trip",
+        "subtitle": "Ironhack Final Project",
+        "url": "https://github.com/martafonda/makeyourtrip",
+        "description": "",
+        "image": "",
+        "technologies": "Ruby, Ruby on Rails, Javascript, JQuery, HTML5, CSS3, Bootstrap"
+      },
+      {
+        "title": "martafonda.com",
+        "subtitle": "Personal portfolio with Polymer",
+        "url": "https://github.com/martafonda/personal-portfolio",
+        "description": "",
+        "image": "",
+        "technologies": "Polymer, HTML5, CSS3, Javascript, Gulp"
+      },
+      {
+        "title": "Comming Soon",
+        "subtitle": "",
+        "url": "",
+        "description": "",
+        "image": "",
+        "technologies": ""
+      },
+      {
+        "title": "Comming Soon",
+        "subtitle": "",
+        "url": "",
+        "description": "",
+        "image": "",
+        "technologies": ""
+      },
+    ],
+    "recommendations": "Lorem"
+  }
 ]
+
