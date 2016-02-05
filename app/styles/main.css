@@ -23,16 +23,8 @@ body {
   float: right;
 }
 
-.subcontainer{
-  width: 80%;
-}
-
 .color.red{
   color: #d96d64;
-}
-
-.main-info>article>div{
-  width: 50%;
 }
 
 .portfolio{
